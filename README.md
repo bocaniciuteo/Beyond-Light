@@ -1,4 +1,4 @@
-# Beyond-Light
+# Beyond Light
 
 ![BeyondLight](https://github.com/bocaniciuteo/Beyond-Light/blob/master/beyondlight.jpg)
 
