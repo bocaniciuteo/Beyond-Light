@@ -8,7 +8,7 @@ Description: The user can control a spaceship and travel between stars, see the 
 
 * With the start of a new the game there are 10 solar systems randomly generated at different positions, with different star sizes, number of planets etc.
 * Spaceship zero-g spaceflight: camera and movement.
-* Solar Systems.
+* Stars.
 * Unique planets with procedural terrain.
 
 # Instructions
