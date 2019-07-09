@@ -20,4 +20,4 @@ Use mouse scroll button to zoom in and out.
 
 Use arrow buttons to accelerate, decelerate, and turn.
 
-Use 'w', 'a', 's', 'd' to pitch and roll.
+Use `w`, `a`, `s`, `d` to pitch and roll.
