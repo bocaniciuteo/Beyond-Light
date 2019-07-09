@@ -11,8 +11,11 @@ Description: The user can control a spaceship and travel between stars, see the 
 * Solar Systems.
 * Unique planets with procedural terrain.
 
-# User Manual
+# Instructions
 
+Click on `Clone or download` -> `Download ZIP` -> Extract files -> `Beyond Light` -> run `FirstDemoBL.exe`.
+
+# User Manual
 
 Use alt + click to pan around with the camera.
 
@@ -21,3 +24,5 @@ Use mouse scroll button to zoom in and out.
 Use arrow buttons to accelerate, decelerate, and turn.
 
 Use `w`, `a`, `s`, `d` to pitch and roll.
+
+
