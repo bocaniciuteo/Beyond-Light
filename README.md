@@ -6,7 +6,7 @@ as stars, planets etc.
 
 Description: The user can control a spaceship and travel between stars, see the solar systems, and get up close to stars and planets.
 
-* Procedurally generated universe.
+* With each start of the game there are 10 solar systems randomly generated at different positions, with different star sizes, number of planets.
 * Spaceship zero-g spaceflight: camera and movement.
 * Solar Systems.
 * Unique planets with procedural terrain.
