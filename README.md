@@ -1,4 +1,7 @@
 # Beyond-Light
+
+![title](https://github.com/bocaniciuteo/Beyond-Light/blob/master/beyondlight.jpg)
+
 Beyond Light is a space simulation game, where the concepts like multi-scale representation, floating origin, and procedural content generation are used to provide the user with a realistic visual experience of space exploration in a virtual universe. The user will be able to navigate through space with a spaceship and discover and experience realistic representations of celestial objects, such
 as stars, planets etc.
 
