@@ -13,7 +13,11 @@ Description: The user can control a spaceship and travel between stars, see the 
 
 # User Manual
 
+
 Use alt + click to pan around with the camera.
+
 Use mouse scroll button to zoom in and out.
+
 Use arrow buttons to accelerate, decelerate, and turn.
-Use W, A, S, D to pitch and roll.
+
+Use 'w', 'a', 's', 'd' to pitch and roll.
